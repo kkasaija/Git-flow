@@ -5,6 +5,7 @@ Learning Git flow
 ### Milestone Reached
 - [x] Create development branch `dev`
 - [x] Create feature branch `add-quotes`
+[x] Create feature branch `fix-quotes`
 ### Setup
 ## Author
 👤 **Kasaija Kenneth**
